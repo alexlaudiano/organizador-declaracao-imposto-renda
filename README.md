@@ -100,6 +100,4 @@ Este projeto é disponibilizado sob a Licença MIT, permitindo uso, modificaçã
 Alex
 Analista de Dados
 
-```
-
 
