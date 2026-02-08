@@ -56,7 +56,6 @@ O principal objetivo deste projeto é:
 1. Clone este repositório ou faça o download dos arquivos:
    ```bash
    git clone https://github.com/seu-usuario/nome-do-repositorio.git
-````
 
 2. Abra o arquivo `Organizador de Declaração de Imposto de Renda.xlsb` utilizando o Microsoft Excel.
 
