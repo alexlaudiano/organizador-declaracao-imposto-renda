@@ -46,7 +46,7 @@ O principal objetivo deste projeto é:
 
 ├── Organizador de Declaração de Imposto de Renda.xlsb
 ├── README.md
-├── README.md
+├── MIT License
 
 ````
 
