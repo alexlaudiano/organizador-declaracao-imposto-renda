@@ -95,9 +95,9 @@ Este projeto é disponibilizado sob a Licença MIT, permitindo uso, modificaçã
 
 ---
 
-## ✍️ Autor
+### Autor
 
-Alex
-Analista de Dados
+**Alex — Analista de Dados**  
+[GitHub](https://github.com/alexlaudiano) | [LinkedIn](https://linkedin.com/in/laudiano)
 
 
